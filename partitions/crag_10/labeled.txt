@@ -1,0 +1,16 @@
+crag/10/train_sup_16/image/train_100.tif crag/10/train_sup_16/mask/train_100.png
+crag/10/train_sup_16/image/train_116.tif crag/10/train_sup_16/mask/train_116.png
+crag/10/train_sup_16/image/train_126.tif crag/10/train_sup_16/mask/train_126.png
+crag/10/train_sup_16/image/train_146.tif crag/10/train_sup_16/mask/train_146.png
+crag/10/train_sup_16/image/train_154.tif crag/10/train_sup_16/mask/train_154.png
+crag/10/train_sup_16/image/train_157.tif crag/10/train_sup_16/mask/train_157.png
+crag/10/train_sup_16/image/train_158.tif crag/10/train_sup_16/mask/train_158.png
+crag/10/train_sup_16/image/train_44.tif crag/10/train_sup_16/mask/train_44.png
+crag/10/train_sup_16/image/train_54.tif crag/10/train_sup_16/mask/train_54.png
+crag/10/train_sup_16/image/train_60.tif crag/10/train_sup_16/mask/train_60.png
+crag/10/train_sup_16/image/train_7.tif crag/10/train_sup_16/mask/train_7.png
+crag/10/train_sup_16/image/train_74.tif crag/10/train_sup_16/mask/train_74.png
+crag/10/train_sup_16/image/train_77.tif crag/10/train_sup_16/mask/train_77.png
+crag/10/train_sup_16/image/train_81.tif crag/10/train_sup_16/mask/train_81.png
+crag/10/train_sup_16/image/train_83.tif crag/10/train_sup_16/mask/train_83.png
+crag/10/train_sup_16/image/train_99.tif crag/10/train_sup_16/mask/train_99.png

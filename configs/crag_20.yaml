@@ -1,0 +1,47 @@
+dataset: crag
+data_root: dataset
+nclass: 2
+
+val_id_path: partitions/crag_20/val.txt
+test_id_path: partitions/crag_20/test.txt
+
+epochs: 80
+batch_size: 4
+crop_size: 256
+lr: 0.001
+lr_multi: 10
+
+criterion:
+  name: CELoss
+  kwargs:
+    ignore_index: 255
+
+thresh_init: 0.7
+
+# Best checkpoint metric: jaccard (mJaccard/mIOU) or dice (mDice).
+best_metric: dice
+
+# Backbone options: uni |  resnet101. UNI/CONCH require an HF token (gated models).
+hf_token: "your_hf_token"
+backbone: uni
+pretrain: True
+
+multi_grid: False
+replace_stride_with_dilation: [False, True, True]
+dilations: [12, 24, 36]
+
+text_proto:
+  text_encoder: "conch"           # Text features Z_t from CONCH + CoOp.
+  class_names: ["background", "gland"]  # Class names used to build CONCH prompts.
+  coop:                           # CoOp when learnable=true: prompt = [V]_1..[V]_n_ctx [CLASS].
+    n_ctx: 4                      # Number of context tokens (used only when learnable=true).
+    learnable: true               # true: learnable context tokens; false: only class names via CONCH.
+
+# Backbone configuration. For uni backbone:
+uni:
+  stage_low: 2
+  stage_high: 9
+  low_channels: 256
+  out_channels: 2048
+  pretrained: true
+  freeze_backbone: true

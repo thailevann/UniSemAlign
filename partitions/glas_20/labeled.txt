@@ -1,0 +1,14 @@
+glas/20/train_sup_14/image/train_17.tif glas/20/train_sup_14/mask/train_17.png
+glas/20/train_sup_14/image/train_20.tif glas/20/train_sup_14/mask/train_20.png
+glas/20/train_sup_14/image/train_23.tif glas/20/train_sup_14/mask/train_23.png
+glas/20/train_sup_14/image/train_28.tif glas/20/train_sup_14/mask/train_28.png
+glas/20/train_sup_14/image/train_4.tif glas/20/train_sup_14/mask/train_4.png
+glas/20/train_sup_14/image/train_42.tif glas/20/train_sup_14/mask/train_42.png
+glas/20/train_sup_14/image/train_52.tif glas/20/train_sup_14/mask/train_52.png
+glas/20/train_sup_14/image/train_55.tif glas/20/train_sup_14/mask/train_55.png
+glas/20/train_sup_14/image/train_60.tif glas/20/train_sup_14/mask/train_60.png
+glas/20/train_sup_14/image/train_69.tif glas/20/train_sup_14/mask/train_69.png
+glas/20/train_sup_14/image/train_70.tif glas/20/train_sup_14/mask/train_70.png
+glas/20/train_sup_14/image/train_74.tif glas/20/train_sup_14/mask/train_74.png
+glas/20/train_sup_14/image/train_85.tif glas/20/train_sup_14/mask/train_85.png
+glas/20/train_sup_14/image/train_9.tif glas/20/train_sup_14/mask/train_9.png
