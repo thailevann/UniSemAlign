@@ -55,13 +55,6 @@ If you need to regenerate partitions, use the partition tool in `UniSemAlign/too
 
 Run all commands from the repository root (`Semi-MoE`).
 
-- **Fully supervised CRAG (100% labels)**:
-
-```bash
-cd UniSemAlign
-bash tools/train_crag_20_supervised.sh
-```
-
 - **Semi-supervised CRAG**:
 
 ```bash
@@ -111,7 +104,6 @@ Where:
 - `mode`: `score` | `mask` | `both` (default)
 - `out_dir`: where masks (PNG) are saved if `mode` includes `mask`
 
-Examples (from `train.txt`):
 
 - **Masks only** (no scores):
 
