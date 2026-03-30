@@ -129,5 +129,5 @@ bash tools/gen_masks_crag_10.sh exp/crag/10/corrmatch/uni_dice4.pth test visual/
 Adjust the checkpoint paths and output directories to match your experiments.
 
 ## Acknowledgment
-Parts of the code were inspired by the excellent PBIP implementation by https://github.com/BBBBchan/CorrMatch .
+Parts of the code were inspired by the excellent CorrMatch implementation by https://github.com/BBBBchan/CorrMatch .
 We sincerely thank the authors for making their code publicly available.
