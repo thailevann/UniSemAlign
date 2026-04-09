@@ -56,8 +56,6 @@ If you need to regenerate partitions, use the partition tool in `UniSemAlign/too
 
 ### Training
 
-Run all commands from the repository root (`Semi-MoE`).
-
 - **Semi-supervised CRAG**:
 
 ```bash
