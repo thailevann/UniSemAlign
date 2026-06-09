@@ -1,4 +1,7 @@
 ## [CVPRW2026] UniSemAlign: Text–Prototype Alignment with a Foundation Encoder for Semi-Supervised Histopathology Segmentation
+
+[![Paper](https://img.shields.io/badge/Paper-CVPRW%202026-red)](https://openaccess.thecvf.com/content/CVPR2026W/CV4Clinic2026/papers/Van_Thai_UniSemAlign_Text-Prototype_Alignment_with_a_Foundation_Encoder_for_Semi-Supervised_Histopathology_CVPRW_2026_paper.pdf)
+
 ### Overview
 <img width="654" height="327" alt="image" src="https://github.com/user-attachments/assets/2114f6d2-71ea-4467-b452-0cac21b155b0" />
 
