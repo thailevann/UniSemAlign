@@ -129,6 +129,21 @@ bash tools/gen_masks_crag_10.sh exp/crag/10/corrmatch/uni_dice4.pth test visual/
 
 Adjust the checkpoint paths and output directories to match your experiments.
 
+## Citation
+
+If you find this work useful in your research, please consider citing:
+
+```bibtex
+@InProceedings{Van_Thai_2026_CVPR,
+    author    = {Van Thai, Le and Nguyen, Tien Dat and Pham, Hoai Nhan and Thi, Lan Anh Dinh and Nguyen, Duy-Dong and Bui, Ngoc Lam Quang},
+    title     = {UniSemAlign: Text-Prototype Alignment with a Foundation Encoder for Semi-Supervised Histopathology Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {6803--6813}
+}
+```
+
 ⭐ **Star this repo if you find it helpful!** ⭐ 
 
 ## Acknowledgment
